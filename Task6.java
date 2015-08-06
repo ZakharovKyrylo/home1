@@ -1,4 +1,4 @@
-package home01;
+package org.sourceit.zakharov.home01;
 
 public class Task6 {
 

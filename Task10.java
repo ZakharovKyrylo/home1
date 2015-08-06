@@ -1,6 +1,5 @@
-package home01;
+package org.sourceit.zakharov.home01;
 
-import java.math.MathContext;
 import java.util.Scanner;
 
 public class Task10 {
